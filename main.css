@@ -19,7 +19,7 @@ p{
 	position: relative;
 	color: white;
 	bottom: 30px;
-	left: 85px;
+	left:97px;
 }
 
 
@@ -32,4 +32,10 @@ img{
 	opacity: 50%;
 
 }
+
+a.opaco:hover{
+	opacity: 0.5;
+}
+              
+
 
